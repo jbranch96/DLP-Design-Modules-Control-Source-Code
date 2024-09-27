@@ -1,4 +1,4 @@
-This folder contains source code for controlling and interfacing with DLP-Disign's IO20 DAQ and IOR4 Relay Module
+This folder contains source code for controlling and interfacing with DLP-Design's IO20 DAQ and IOR4 4-channel Latching Relay Module
 
 ![DLP-IO20](DLP-IO20.png)
 
